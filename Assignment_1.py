@@ -18,7 +18,7 @@ print(((True == False) or (False > True)) and (False <= True))
 ###########################################################################
 #Q3
 
-Method-1
+#Method-1
 s1= 'Nice to have it'
 s2= 'here'
 s3=' '.join([s1,s2])
